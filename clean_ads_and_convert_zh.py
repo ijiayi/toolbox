@@ -1,3 +1,10 @@
+# /// script
+# requires-python = ">=3.13"
+# dependencies = [
+#     "click",
+#     "opencc",
+# ]
+# ///
 import os
 import re
 
